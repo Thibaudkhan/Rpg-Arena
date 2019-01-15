@@ -1,4 +1,4 @@
-package fr.groupe4.java;
+package fr.groupe4.cours;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package fr.groupe4.java.personnage;
+package fr.groupe4.cours.personnage;
 
 public class Elfe extends Personnage {
 }
